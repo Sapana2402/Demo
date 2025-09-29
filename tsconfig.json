@@ -1,0 +1,5 @@
+{
+  "extends": "@react-native/typescript-config",
+  "include": ["**/*.ts", "**/*.tsx", "src/WatermelonDBExample/models/Note.js", "src/WatermelonDBExample/Data/schema.js", "src/WatermelonDBExample/index.js"],
+  "exclude": ["**/node_modules", "**/Pods"]
+}
